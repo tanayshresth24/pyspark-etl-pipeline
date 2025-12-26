@@ -1,8 +1,9 @@
-Welcome to the show. This endeavor aims to provide you with insights into the functioning of projects within a real-time environment.
+## PySpark ETL Pipeline
 
-Project implemented and extended by Tanay Shresth.
+Author: Tanay Shresth
 
-The code has been meticulously crafted with careful consideration for various aspects. It not only nurtures your coding skills but also imparts a comprehensive comprehension of project structures.
+This project was independently implemented and extended as a hands-on ETL pipeline
+to demonstrate real-world PySpark, AWS S3, and MySQL integration patterns.
 
 Let's Start with requirement to complete the projects:-
 1. You should have laptop with minimum 4 GB of RAM, i3 and above (Better to have 8GB with i5).
