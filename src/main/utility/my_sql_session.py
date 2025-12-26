@@ -4,8 +4,8 @@ def get_mysql_connection():
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="password",
-        database="manish"
+        password="admin123",
+        database="pyspark_project"
     )
     return connection
 
