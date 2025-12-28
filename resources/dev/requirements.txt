@@ -2,6 +2,6 @@ pycryptodomex
 pycryptodome
 loguru
 boto3
-pyspark
 findspark
+pyspark
 mysql-connector-python
